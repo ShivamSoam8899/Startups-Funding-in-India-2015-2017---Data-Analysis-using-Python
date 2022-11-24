@@ -1,2 +1,2 @@
 # Startups-Funding-in-India-2015-2017---Data-Analysis-using-Python
-As we know India is one of the fastest developing Country in the world ,day by day there are many new startups are funded by investors .
+As we know India is one of the fastest developing Country in the world ,day by day there are many new startups are funded by investors , here we have data sets of the few startups from 2015-2017 and we will analysis who is the most famous investor , what kind of startups are getting money ,which city is mostly chosen to open a startup etc.
